@@ -1,0 +1,10 @@
+"D:\Software\CLion\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Software/CLion/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S D:\code\mines\mines_sweeper -B D:\code\mines\mines_sweeper\cmake-build-debug
+-- The CXX compiler identification is GNU 5.3.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/Software/qt_5.9.1/Tools/mingw530_32/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/code/mines/mines_sweeper/cmake-build-debug

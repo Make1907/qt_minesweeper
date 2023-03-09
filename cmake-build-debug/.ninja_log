@@ -1,0 +1,16 @@
+# ninja log v5
+3	69	7000277823871408	qrc_res.cpp	ffe9b1c66772388e
+3	69	7000277823871408	D:/code/mines/mines_sweeper/cmake-build-debug/qrc_res.cpp	ffe9b1c66772388e
+69	600	7000277823871408	CMakeFiles/mines_sweeper_autogen	6690509df9e79dc8
+69	600	7000277823871408	mines_sweeper_autogen/mocs_compilation.cpp	6690509df9e79dc8
+69	600	7000277823871408	D:/code/mines/mines_sweeper/cmake-build-debug/CMakeFiles/mines_sweeper_autogen	6690509df9e79dc8
+69	600	7000277823871408	D:/code/mines/mines_sweeper/cmake-build-debug/mines_sweeper_autogen/mocs_compilation.cpp	6690509df9e79dc8
+616	1190	7000277835043327	CMakeFiles/mines_sweeper.dir/fielddata.cpp.obj	be76ac39ec565f53
+600	4057	7000277863357895	CMakeFiles/mines_sweeper.dir/cellitem.cpp.obj	38f219da199d5d9a
+605	4207	7000277865148905	CMakeFiles/mines_sweeper.dir/mines_sweeper_autogen/mocs_compilation.cpp.obj	910c52ee58e20ce2
+4064	4330	7000277866261181	CMakeFiles/mines_sweeper.dir/qrc_res.cpp.obj	91b22a96b298cf41
+631	4427	7000277867391691	CMakeFiles/mines_sweeper.dir/main.cpp.obj	3f965d2cf0e80856
+610	4584	7000277868952261	CMakeFiles/mines_sweeper.dir/configdialog.cpp.obj	c3d09db8361ac287
+1192	4881	7000277871963538	CMakeFiles/mines_sweeper.dir/minesweepscene.cpp.obj	ad89aa09f095c36c
+622	5037	7000277873547063	CMakeFiles/mines_sweeper.dir/mainwindow.cpp.obj	f97cda90cfeb3ab4
+5038	5486	7000277877948418	mines_sweeper.exe	a0f39e863123ac96

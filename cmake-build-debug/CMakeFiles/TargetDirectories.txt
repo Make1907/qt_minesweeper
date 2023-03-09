@@ -1,0 +1,4 @@
+D:/code/mines/mines_sweeper/cmake-build-debug/CMakeFiles/mines_sweeper.dir
+D:/code/mines/mines_sweeper/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/mines/mines_sweeper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/code/mines/mines_sweeper/cmake-build-debug/CMakeFiles/mines_sweeper_autogen.dir
