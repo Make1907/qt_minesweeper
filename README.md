@@ -95,7 +95,10 @@
 
 * 如果需要在linux上面玩儿，重新编译一下即可；
 
- 
+ ## 编译
+* 可以在clion中直接运行
+* cmakelist.txt 可能需要根据个人QT配置做相应的路径更改
+* 可以在QTCreator中直接运行，打开QT的项目文件即可
 
 ## 晒几张运行截图
 ![image](https://github.com/xiaoxi666/mines_sweeper/blob/master/result/win.PNG)
